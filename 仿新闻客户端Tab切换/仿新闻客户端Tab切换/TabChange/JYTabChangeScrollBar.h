@@ -45,9 +45,6 @@
 @property (nonatomic, strong) UIFont  *normalFont;
 @property (nonatomic, strong) UIFont  *selectedFont;
 
-// 是否显示模糊Layer
-@property (nonatomic, assign) BOOL showBlurLayer;
-
 @property (nonatomic, weak) id<JYScrollBarDelegate> delegate;
 
 // 根据传入的文字生成Item数组
