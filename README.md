@@ -112,4 +112,5 @@
    ~~~
 
 3. 最终效果gif图
+
     ![img](https://github.com/gujinyue1010/JYTabChangeScrollBar/blob/master/1.gif)
